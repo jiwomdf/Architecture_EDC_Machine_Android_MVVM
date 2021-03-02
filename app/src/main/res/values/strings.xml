@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EDC Machine Android Print Practice</string>
+    <string name="this_login_functionality_show_the_best_practice_in_using_the_architecture">this login functionality show the best practice in using the architecture</string>
+    <string name="understood">Understood</string>
+    <string name="text_error">Error, Please try again</string>
+</resources>
